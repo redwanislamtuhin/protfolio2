@@ -1,0 +1,133 @@
+*{margin: 0; padding:0;}
+
+.full-container{
+    width:100%;
+}
+.container{
+    width:80%;
+    margin: 0 auto;
+}
+h1{
+    font-size: 50px;
+}
+.highlight{
+    color: rgb(236, 17, 163);
+    
+}
+
+.top-banner{
+    background-image: url(img/header-bg.png);
+    width:100%;
+    height:600px;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.button{
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 25px;
+    color: black;
+    background-color: blueviolet;
+    border-radius: 8px;
+    padding:20px;
+}
+.button:hover{
+    color:white;
+    background-color: cornflowerblue;
+}
+
+.first-width{
+    width:30%;
+    float: left;
+    margin-left: 10%;
+    margin-top: 8%;
+    
+}
+.first-width p{
+    font-size: 20px;
+    text-align: justify;
+    color: dimgray;
+    line-height: 2;
+    
+}
+.first-width img{
+    height: 600px;
+}
+.biography{
+    background-image: url(img/biography-bg.png);
+    width:100%;
+    height:650px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top:20%;
+}
+h1{
+    text-align: center;
+    color: black;
+    margin-bottom: 20px;
+
+}
+.latest-work{
+    background-image: url(img/latest-work-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 650px;
+    margin-top:15%;
+}
+.latest section img{
+    width: 30%;
+    float: left;
+    margin-left: 3%;
+}
+.contact{
+    background-image: url(Images/footer-bg.png);
+    height:800px;
+    width: 100%;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contact h2,h3,p{
+    text-align: center;
+}
+
+.contact p{
+    color: dimgray;
+}
+
+.fotter-background{
+    background-image: url(img/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    height: 700px;
+    width:100%;
+}
+
+
+.footer-message {
+color: white;
+background-color:  #ff0095;
+width: 60%;
+height: 190px;
+margin-left: 20%;
+margin-top: 5%;
+border-radius: 20px;
+}
+
+.footer-message h4{
+color: whitesmoke;
+font-size: 30px;
+margin-top: 0px;
+margin-left: 20%;
+}
+
+.footer-message p{
+color: whitesmoke;
+padding-top: 60px;
+margin-bottom: 0px;
+padding-right: 10px;
+}
