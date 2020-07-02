@@ -109,25 +109,26 @@ h1{
 
 
 .footer-message {
-color: white;
-background-color:  #ff0095;
-width: 60%;
-height: 190px;
-margin-left: 20%;
-margin-top: 5%;
-border-radius: 20px;
+    color: white;
+    background-color:  #ff0095;
+    width: 60%;
+    height: 190px;
+    margin-left: 20%;
+    margin-top: 5%;
+    border-radius: 20px;
 }
 
 .footer-message h4{
-color: whitesmoke;
-font-size: 30px;
-margin-top: 0px;
-margin-left: 20%;
+    color: whitesmoke;
+    font-size: 30px;
+    margin-top: 0px;
+    margin-left: 20%;
 }
 
 .footer-message p{
-color: whitesmoke;
-padding-top: 60px;
-margin-bottom: 0px;
-padding-right: 10px;
-}
+    color: whitesmoke;
+    padding-top: 60px;
+    margin-bottom: 0px;
+    padding-right: 10px;
+    }
+
